@@ -1,0 +1,4 @@
+== url-testing
+
+A sinatra based mini-project to be included in a larger dashboard.
+Checks hard-coded urls and displays their code value (with color association for validity).
